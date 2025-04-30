@@ -32,7 +32,9 @@ npm run dev
 Navigate to: http://localhost:5173/ (Or displayed address in front-end console))
 
 Screenshots:
+
 ![image](https://github.com/user-attachments/assets/c40e8108-29ca-4c0b-a952-45ae85766b67)
+
 ![image](https://github.com/user-attachments/assets/2e796cbf-c1e5-41c0-8143-7d90c496f142)
 
 Things to note:
