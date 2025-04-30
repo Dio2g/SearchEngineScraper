@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+body {
+  background-color: #f2fbff;
+}
+
+@layer components {
+  .form-element {
+    @apply w-full p-2 my-3 border-1 focus:outline-none focus:border-[#08C1C9] focus:ring-1 focus:ring-[#029390];
+  }
+
+  .display-text {
+    @apply font-light mb-2;
+  }
+}
